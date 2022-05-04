@@ -1,3 +1,4 @@
 /* FRED TEST */
 
-proc setinit; run;
+proc setinit; 
+run;
