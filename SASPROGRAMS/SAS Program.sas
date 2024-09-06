@@ -1,4 +1,3 @@
-/* FRED MATHIAS TEST */
+/* TEST2 */
 proc setinit; 
-
 run;
